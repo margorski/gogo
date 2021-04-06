@@ -1,0 +1,2 @@
+# gogo
+GOG resources downloader
